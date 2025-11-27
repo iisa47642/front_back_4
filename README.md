@@ -28,14 +28,16 @@ npm run dev
 http://localhost:5173
 🧩 Структура проекта:
  src/
- ├── components/           # Переиспользуемые компоненты
- │   ├── ContactForm.jsx   # Форма добавления
- │   ├── ContactList.jsx   # Список контактов
- │   ├── ContactItem.jsx   # Один контакт
- │   └── SearchBar.jsx     # Строка поиска
- ├── App.jsx               # Главный компонент
- ├── main.jsx              # Точка входа
- └── index.css             # Глобальные стили
+ ├── components/           # Переиспользуемые компоненты  
+ │   ├── ContactForm.jsx   # Форма добавления  
+ │   ├── ContactList.jsx   # Список контактов  
+ │   ├── ContactItem.jsx   # Один контакт  
+ │   └── SearchBar.jsx     # Строка поиска  
+ ├── App.jsx               # Главный компонент    
+ ├── main.jsx              # Точка входа  
+ └── index.css             # Глобальные стили  
+
+ 
 <img width="1470" height="939" alt="Screenshot 2025-11-27 at 11 32 32" src="https://github.com/user-attachments/assets/e14546a6-a8de-4ccf-b8d8-02916f0f3d1b" />
 <img width="599" height="549" alt="Screenshot 2025-11-27 at 11 32 11" src="https://github.com/user-attachments/assets/1beca8f9-2e6f-45f5-9755-62c531bbb686" />
 <img width="603" height="553" alt="Screenshot 2025-11-27 at 11 31 50" src="https://github.com/user-attachments/assets/dfd84442-6b03-4f0e-ad8f-3d67d72b175d" />
