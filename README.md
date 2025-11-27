@@ -32,10 +32,10 @@ http://localhost:5173
  │   ├── ContactForm.jsx   # Форма добавления  
  │   ├── ContactList.jsx   # Список контактов  
  │   ├── ContactItem.jsx   # Один контакт  
- │   └── SearchBar.jsx     # Строка поиска  
+ │   └── SearchBar.jsx     # Строка поиска   
  ├── App.jsx               # Главный компонент    
  ├── main.jsx              # Точка входа  
- └── index.css             # Глобальные стили  
+ └── index.css             # Глобальные стили   
 
  
 <img width="1470" height="939" alt="Screenshot 2025-11-27 at 11 32 32" src="https://github.com/user-attachments/assets/e14546a6-a8de-4ccf-b8d8-02916f0f3d1b" />
